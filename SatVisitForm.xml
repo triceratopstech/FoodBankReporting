@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:initial-creator>Jeff Morgan</meta:initial-creator><meta:creation-date>2007-02-20T15:33:34</meta:creation-date><dc:date>2018-04-19T16:34:49.469000000</dc:date><meta:print-date>2010-08-31T14:58:23</meta:print-date><meta:generator>LibreOffice/5.4.6.2$Windows_X86_64 LibreOffice_project/4014ce260a04f1026ba855d3b8d91541c224eab8</meta:generator><meta:editing-duration>PT48M46S</meta:editing-duration><meta:editing-cycles>4</meta:editing-cycles><meta:document-statistic meta:table-count="3" meta:cell-count="60" meta:object-count="1"/></office:meta>
+ <office:meta><meta:initial-creator>Jeff Morgan</meta:initial-creator><meta:creation-date>2007-02-20T15:33:34</meta:creation-date><dc:date>2018-04-19T22:51:07.730000000</dc:date><meta:print-date>2010-08-31T14:58:23</meta:print-date><meta:generator>LibreOffice/5.4.6.2$Windows_X86_64 LibreOffice_project/4014ce260a04f1026ba855d3b8d91541c224eab8</meta:generator><meta:editing-duration>PT1H29M21S</meta:editing-duration><meta:editing-cycles>9</meta:editing-cycles><meta:document-statistic meta:table-count="3" meta:cell-count="118" meta:object-count="1"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaWidth" config:type="int">22889</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">21986</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">32226</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="Master">
-       <config:config-item config:name="CursorPositionX" config:type="int">5</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">9</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">2</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">17</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -49,8 +49,8 @@
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="Summary">
-       <config:config-item config:name="CursorPositionX" config:type="int">4</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">5</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">7</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -692,6 +692,9 @@
    <style:table-row-properties style:row-height="15.79pt" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro8" style:family="table-row">
+   <style:table-row-properties style:row-height="17.01pt" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro9" style:family="table-row">
    <style:table-row-properties style:row-height="12.81pt" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ta1" style:family="table" style:master-page-name="PageStyle_5f_Master">
@@ -714,66 +717,66 @@
    <number:text>/</number:text>
    <number:year/>
   </number:date-style>
-  <style:style style:name="ce17" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce3" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:background-color="#ffffff" fo:padding="2.01pt"/>
   </style:style>
-  <style:style style:name="ce33" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce4" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:glyph-orientation-vertical="0" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" fo:border="0.74pt solid #000000" style:direction="ltr" fo:padding="2.01pt" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="middle" loext:vertical-justify="auto"/>
    <style:paragraph-properties fo:text-align="center" css3t:text-justify="auto" fo:margin-left="0pt" style:writing-mode="page"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-size="13pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Arial1" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="ce34" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce5" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:glyph-orientation-vertical="0" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border="0.74pt solid #000000" style:direction="ltr" fo:padding="2.01pt" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="automatic" loext:vertical-justify="auto"/>
    <style:paragraph-properties fo:text-align="center" css3t:text-justify="auto" fo:margin-left="0pt" style:writing-mode="page"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-size="12pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="ce35" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce6" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:glyph-orientation-vertical="0" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:background-color="transparent" fo:wrap-option="no-wrap" fo:border="0.74pt solid #000000" style:direction="ltr" fo:padding="2.01pt" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="automatic" loext:vertical-justify="auto"/>
    <style:paragraph-properties fo:text-align="center" css3t:text-justify="auto" fo:margin-left="0pt" style:writing-mode="page"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-size="12pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="ce36" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce12" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:glyph-orientation-vertical="0" fo:background-color="#ffffff" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border="0.74pt solid #000000" style:direction="ltr" fo:padding="2.01pt" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="automatic" loext:vertical-justify="auto"/>
    <style:paragraph-properties fo:text-align="center" css3t:text-justify="auto" fo:margin-left="0pt" style:writing-mode="page"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-size="12pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="ce37" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+  <style:style style:name="ce17" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
    <style:table-cell-properties style:glyph-orientation-vertical="0" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border="0.74pt solid #000000" style:direction="ltr" fo:padding="2.01pt" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="automatic" loext:vertical-justify="auto"/>
    <style:paragraph-properties fo:text-align="center" css3t:text-justify="auto" fo:margin-left="0pt" style:writing-mode="page"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-size="12pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="ce38" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce20" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:diagonal-bl-tr="none" style:diagonal-tl-br="none" fo:border="none" fo:padding="2.01pt" style:rotation-align="none"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-size="12pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="ce39" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce23" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:diagonal-bl-tr="none" style:diagonal-tl-br="none" fo:border="none" fo:padding="2.01pt" style:rotation-align="none"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-size="14pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="14pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="14pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="ce40" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce24" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:padding="2.01pt"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-size="14pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="14pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="14pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="ce41" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce25" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:padding="2.01pt"/>
   </style:style>
-  <style:style style:name="ce42" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce26" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:background-color="transparent" fo:padding="2.01pt"/>
   </style:style>
-  <style:style style:name="ce43" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+  <style:style style:name="ce27" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
    <style:table-cell-properties style:glyph-orientation-vertical="0" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:background-color="transparent" fo:wrap-option="no-wrap" fo:border="none" style:direction="ltr" fo:padding="2.01pt" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="automatic" loext:vertical-justify="auto"/>
    <style:paragraph-properties fo:text-align="center" css3t:text-justify="auto" fo:margin-left="0pt" style:writing-mode="page"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-size="11pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="11pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="ce44" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce29" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:diagonal-bl-tr="none" style:diagonal-tl-br="none" fo:background-color="transparent" fo:border="none" fo:padding="2.01pt" style:rotation-align="none"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-size="11pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="11pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Arial1" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="ce45" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce33" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:diagonal-bl-tr="none" style:diagonal-tl-br="none" fo:background-color="transparent" fo:border="none" fo:padding="2.01pt" style:rotation-align="none"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-size="11pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="11pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="ce46" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce38" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:background-color="transparent" fo:padding="2.01pt"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-size="11pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="11pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
@@ -782,7 +785,7 @@
    <style:paragraph-properties fo:text-align="start" css3t:text-justify="auto" fo:margin-left="0pt" style:writing-mode="page"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-size="14pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="14pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="14pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="ce48" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce40" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:glyph-orientation-vertical="0" fo:border-bottom="0.74pt solid #000000" fo:background-color="#ffffff" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border-left="none" style:direction="ltr" fo:padding="2.01pt" fo:border-right="none" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" fo:border-top="none" style:vertical-align="middle" loext:vertical-justify="auto"/>
    <style:paragraph-properties fo:text-align="start" css3t:text-justify="auto" fo:margin-left="0pt" style:writing-mode="page"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-size="14pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="14pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="14pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
@@ -802,7 +805,7 @@
    <style:paragraph-properties fo:text-align="start" css3t:text-justify="auto" fo:margin-left="0pt" style:writing-mode="page"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-size="12pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="ce20" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce47" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:diagonal-bl-tr="none" style:diagonal-tl-br="none" fo:border="0.74pt solid #000000" fo:padding="2.01pt" style:rotation-align="none"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-size="12pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
@@ -846,27 +849,27 @@
    <style:table-cell-properties fo:background-color="transparent" fo:padding="2.01pt"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-size="11pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="11pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="ce23" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce58" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:glyph-orientation-vertical="0" fo:background-color="#ffffff" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="no-wrap" style:direction="ltr" fo:padding="2.01pt" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="middle" loext:vertical-justify="auto"/>
    <style:paragraph-properties fo:text-align="start" css3t:text-justify="auto" fo:margin-left="0pt" style:writing-mode="page"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-size="14pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="14pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="14pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="ce64" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N30">
+  <style:style style:name="ce59" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N30">
    <style:table-cell-properties style:glyph-orientation-vertical="0" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border="0.74pt solid #000000" style:direction="ltr" fo:padding="2.01pt" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="automatic" loext:vertical-justify="auto"/>
    <style:paragraph-properties fo:text-align="center" css3t:text-justify="auto" fo:margin-left="0pt" style:writing-mode="page"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-size="12pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="ce65" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N30">
+  <style:style style:name="ce60" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N30">
    <style:table-cell-properties style:glyph-orientation-vertical="0" fo:background-color="#ffffff" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border="0.74pt solid #000000" style:direction="ltr" fo:padding="2.01pt" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="automatic" loext:vertical-justify="auto"/>
    <style:paragraph-properties fo:text-align="center" css3t:text-justify="auto" fo:margin-left="0pt" style:writing-mode="page"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-size="12pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="ce66" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N30">
+  <style:style style:name="ce61" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N30">
    <style:table-cell-properties style:glyph-orientation-vertical="0" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:background-color="transparent" fo:wrap-option="no-wrap" fo:border="0.74pt solid #000000" style:direction="ltr" fo:padding="2.01pt" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="automatic" loext:vertical-justify="auto"/>
    <style:paragraph-properties fo:text-align="center" css3t:text-justify="auto" fo:margin-left="0pt" style:writing-mode="page"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-size="12pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="ce67" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N30">
+  <style:style style:name="ce62" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N30">
    <style:table-cell-properties style:glyph-orientation-vertical="0" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:background-color="transparent" fo:wrap-option="no-wrap" fo:border="none" style:direction="ltr" fo:padding="2.01pt" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="automatic" loext:vertical-justify="auto"/>
    <style:paragraph-properties fo:text-align="center" css3t:text-justify="auto" fo:margin-left="0pt" style:writing-mode="page"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-size="11pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="11pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
@@ -892,6 +895,10 @@
    <style:paragraph-properties fo:text-align="center" css3t:text-justify="auto" fo:margin-left="0pt" style:writing-mode="page"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-size="13pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Arial1" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
+  <style:style style:name="ce74" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+   <style:table-cell-properties style:diagonal-bl-tr="none" style:diagonal-tl-br="none" fo:border="0.74pt solid #000000" fo:padding="2.01pt" style:rotation-align="none"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-size="12pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
   <style:style style:name="ce31" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:glyph-orientation-vertical="0" style:text-align-source="value-type" style:repeat-content="false" fo:wrap-option="no-wrap" style:direction="ltr" fo:padding="2.01pt" style:rotation-angle="0" style:rotation-align="none" style:shrink-to-fit="false" style:vertical-align="middle" loext:vertical-justify="auto"/>
    <style:paragraph-properties css3t:text-justify="auto" fo:margin-left="0pt" style:writing-mode="page"/>
@@ -900,86 +907,115 @@
    <style:table-cell-properties fo:background-color="#ffcc00" fo:padding="2.01pt"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial1" fo:font-size="14pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="14pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="14pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="ce75" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Corner">
+  <style:style style:name="ce104" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="ce105" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Field">
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="ce106" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Corner">
    <style:table-cell-properties fo:border-bottom="none" fo:border-left="2.01pt solid #000000" fo:border-right="none" fo:border-top="2.01pt solid #000000"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="ce76" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Field">
+  <style:style style:name="ce107" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Field">
    <style:table-cell-properties fo:border-bottom="0.99pt solid #000000" fo:border-left="2.01pt solid #000000" fo:border-right="0.99pt solid #000000" fo:border-top="0.99pt solid #000000"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="ce77" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Category" style:data-style-name="N0">
+  <style:style style:name="ce108" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Category" style:data-style-name="N0">
    <style:table-cell-properties fo:border-bottom="0.99pt solid #000000" fo:border-left="2.01pt solid #000000" fo:border-right="0.99pt solid #000000" fo:border-top="0.99pt solid #000000"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="ce78" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Title" style:data-style-name="N0">
+  <style:style style:name="ce109" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Title" style:data-style-name="N0">
    <style:table-cell-properties fo:border-bottom="2.01pt solid #000000" fo:border-left="2.01pt solid #000000" fo:border-right="none" fo:border-top="0.99pt solid #000000"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="ce79" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce110" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:border="0.99pt solid #000000"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="ce80" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Corner">
+  <style:style style:name="ce111" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Corner">
    <style:table-cell-properties fo:border-bottom="none" fo:border-left="none" fo:border-right="none" fo:border-top="2.01pt solid #000000"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="ce81" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Field">
+  <style:style style:name="ce112" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Field">
    <style:table-cell-properties fo:border="0.99pt solid #000000"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="ce82" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Category" style:data-style-name="N0">
+  <style:style style:name="ce113" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Category" style:data-style-name="N0">
    <style:table-cell-properties fo:border="0.99pt solid #000000"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="ce83" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Title" style:data-style-name="N0">
+  <style:style style:name="ce114" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Title" style:data-style-name="N0">
    <style:table-cell-properties fo:border-bottom="2.01pt solid #000000" fo:border-left="none" fo:border-right="none" fo:border-top="0.99pt solid #000000"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="ce84" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Corner">
+  <style:style style:name="ce115" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Corner">
    <style:table-cell-properties fo:border-bottom="none" fo:border-left="none" fo:border-right="0.99pt solid #000000" fo:border-top="2.01pt solid #000000"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="ce85" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Category" style:data-style-name="N30">
+  <style:style style:name="ce116" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Category" style:data-style-name="N30">
    <style:table-cell-properties fo:border="0.99pt solid #000000"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="ce86" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Title" style:data-style-name="N30">
+  <style:style style:name="ce117" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Title" style:data-style-name="N30">
    <style:table-cell-properties fo:border-bottom="2.01pt solid #000000" fo:border-left="none" fo:border-right="0.99pt solid #000000" fo:border-top="0.99pt solid #000000"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="ce87" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Field">
+  <style:style style:name="ce118" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Field">
    <style:table-cell-properties fo:border-bottom="0.99pt solid #000000" fo:border-left="0.99pt solid #000000" fo:border-right="0.99pt solid #000000" fo:border-top="2.01pt solid #000000"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="ce88" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Category" style:data-style-name="N0">
+  <style:style style:name="ce119" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Category" style:data-style-name="N0">
    <style:table-cell-properties fo:border-bottom="0.99pt solid #000000" fo:border-left="0.99pt solid #000000" fo:border-right="none" fo:border-top="none"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="ce89" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Value" style:data-style-name="N0">
+  <style:style style:name="ce120" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Value" style:data-style-name="N0">
    <style:table-cell-properties fo:border-bottom="0.99pt solid #000000" fo:border-left="0.99pt solid #000000" fo:border-right="none" fo:border-top="0.99pt solid #000000"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="ce90" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Result" style:data-style-name="N0">
+  <style:style style:name="ce121" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Result" style:data-style-name="N0">
    <style:table-cell-properties fo:border-bottom="2.01pt solid #000000" fo:border-left="0.99pt solid #000000" fo:border-right="none" fo:border-top="0.99pt solid #000000"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="ce91" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Corner">
+  <style:style style:name="ce122" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Corner">
    <style:table-cell-properties fo:border-bottom="0.99pt solid #000000" fo:border-left="none" fo:border-right="none" fo:border-top="2.01pt solid #000000"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="ce92" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Category" style:data-style-name="N0">
+  <style:style style:name="ce123" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Category" style:data-style-name="N0">
    <style:table-cell-properties fo:border-bottom="0.99pt solid #000000" fo:border-left="none" fo:border-right="none" fo:border-top="none"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="ce93" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Value" style:data-style-name="N0">
+  <style:style style:name="ce124" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Value" style:data-style-name="N0">
    <style:table-cell-properties fo:border-bottom="0.99pt solid #000000" fo:border-left="none" fo:border-right="none" fo:border-top="0.99pt solid #000000"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="ce94" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Value">
+  <style:style style:name="ce125" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Result" style:data-style-name="N0">
+   <style:table-cell-properties fo:border-bottom="2.01pt solid #000000" fo:border-left="none" fo:border-right="none" fo:border-top="0.99pt solid #000000"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="ce126" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Value">
    <style:table-cell-properties fo:border-bottom="0.99pt solid #000000" fo:border-left="none" fo:border-right="none" fo:border-top="0.99pt solid #000000"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="ce95" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Result" style:data-style-name="N0">
-   <style:table-cell-properties fo:border-bottom="2.01pt solid #000000" fo:border-left="none" fo:border-right="none" fo:border-top="0.99pt solid #000000"/>
-  </style:style>
-  <style:style style:name="ce96" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Result">
-   <style:table-cell-properties fo:border-bottom="2.01pt solid #000000" fo:border-left="none" fo:border-right="none" fo:border-top="0.99pt solid #000000"/>
-  </style:style>
-  <style:style style:name="ce97" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Corner">
+  <style:style style:name="ce127" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Corner">
    <style:table-cell-properties fo:border-bottom="0.99pt solid #000000" fo:border-left="none" fo:border-right="2.01pt solid #000000" fo:border-top="2.01pt solid #000000"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="ce98" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Category" style:data-style-name="N0">
+  <style:style style:name="ce128" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Category" style:data-style-name="N0">
    <style:table-cell-properties fo:border-bottom="0.99pt solid #000000" fo:border-left="none" fo:border-right="2.01pt solid #000000" fo:border-top="none"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="ce99" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Value">
+  <style:style style:name="ce129" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Value">
    <style:table-cell-properties fo:border-bottom="0.99pt solid #000000" fo:border-left="none" fo:border-right="2.01pt solid #000000" fo:border-top="0.99pt solid #000000"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="ce100" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Value" style:data-style-name="N0">
+  <style:style style:name="ce130" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Value" style:data-style-name="N0">
    <style:table-cell-properties fo:border-bottom="0.99pt solid #000000" fo:border-left="none" fo:border-right="2.01pt solid #000000" fo:border-top="0.99pt solid #000000"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="ce101" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Result" style:data-style-name="N0">
+  <style:style style:name="ce131" style:family="table-cell" style:parent-style-name="Pivot_20_Table_20_Result" style:data-style-name="N0">
    <style:table-cell-properties fo:border-bottom="2.01pt solid #000000" fo:border-left="none" fo:border-right="2.01pt solid #000000" fo:border-top="0.99pt solid #000000"/>
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="gr1" style:family="graphic">
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="top" draw:auto-grow-height="false" fo:padding-top="3.69pt" fo:padding-bottom="3.69pt" fo:padding-left="7.09pt" fo:padding-right="7.09pt" fo:wrap-option="wrap" draw:shadow-color="#808080" draw:color-mode="standard" draw:luminance="0%" draw:contrast="0%" draw:gamma="100%" draw:red="0%" draw:green="0%" draw:blue="0%" fo:clip="rect(0pt, 0pt, 0pt, 0pt)" draw:image-opacity="100%" style:mirror="none"/>
@@ -1037,7 +1073,7 @@
      <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2018-04-19">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="21:12:58.419000000">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2018-04-19">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="20:45:41.407000000">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -1057,27 +1093,25 @@
   <office:spreadsheet>
    <table:calculation-settings table:case-sensitive="false" table:automatic-find-labels="false" table:use-regular-expressions="false" table:use-wildcards="true"/>
    <table:content-validations>
-    <table:content-validation table:name="val1" table:condition="of:cell-content-is-whole-number() and cell-content()=0" table:allow-empty-cell="true" table:base-cell-address="Master.A2">
+    <table:content-validation table:name="val1" table:condition="of:cell-content-is-whole-number() and cell-content()&gt;0" table:allow-empty-cell="false" table:base-cell-address="Master.A1">
      <table:error-message table:message-type="stop" table:display="true"/>
     </table:content-validation>
-    <table:content-validation table:name="val2" table:condition="of:cell-content-is-date() and cell-content()=0" table:allow-empty-cell="true" table:base-cell-address="Master.D1">
-     <table:error-message table:message-type="stop" table:display="true"/>
-    </table:content-validation>
-    <table:content-validation table:name="val3" table:condition="of:cell-content-is-date() and cell-content()&gt;0" table:allow-empty-cell="true" table:base-cell-address="Master.E1">
+    <table:content-validation table:name="val2" table:condition="of:cell-content-is-date() and cell-content()&gt;0" table:allow-empty-cell="true" table:base-cell-address="Master.E1">
      <table:error-message table:message-type="stop" table:display="true"/>
     </table:content-validation>
    </table:content-validations>
    <table:table table:name="Master" table:style-name="ta1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <table:table-column table:style-name="co1" table:default-cell-style-name="ce41"/>
+    <table:table-column table:style-name="co1" table:default-cell-style-name="ce25"/>
     <table:table-column table:style-name="co2" table:default-cell-style-name="ce10"/>
     <table:table-column table:style-name="co3" table:default-cell-style-name="ce10"/>
-    <table:table-column table:style-name="co4" table:default-cell-style-name="ce41"/>
-    <table:table-column table:style-name="co5" table:default-cell-style-name="ce41"/>
+    <table:table-column table:style-name="co4" table:default-cell-style-name="ce25"/>
+    <table:table-column table:style-name="co5" table:default-cell-style-name="ce25"/>
     <table:table-column table:style-name="co6" table:number-columns-repeated="2" table:default-cell-style-name="ce10"/>
-    <table:table-column table:style-name="co7" table:number-columns-repeated="1017" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co7" table:visibility="collapse" table:default-cell-style-name="ce10"/>
+    <table:table-column table:style-name="co7" table:number-columns-repeated="1016" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
-     <table:table-cell table:style-name="ce17" table:content-validation-name="val1">
+     <table:table-cell table:style-name="ce3" table:content-validation-name="val1">
       <draw:frame table:end-cell-address="Master.A2" table:end-x="50.74pt" table:end-y="29.28pt" draw:z-index="0" draw:name="Picture 3" draw:style-name="gr1" draw:text-style-name="P1" svg:width="35.69pt" svg:height="50.34pt" svg:x="15.05pt" svg:y="6.72pt">
        <draw:image xlink:href="">
         <office:binary-data>/9j/4AAQSkZJRgABAgEAYABgAAD/4SI4RXhpZgAASUkqAAgAAAANAAABAwABAAAAHAgAAAEB
@@ -11697,22 +11731,22 @@
      <table:table-cell table:style-name="ce16" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="3" table:number-rows-spanned="2">
       <text:p>Monthly Satellite Report</text:p>
      </table:table-cell>
-     <table:covered-table-cell table:style-name="ce23"/>
-     <table:covered-table-cell table:style-name="ce23" table:content-validation-name="val2"/>
-     <table:table-cell table:style-name="ce17" table:content-validation-name="val3"/>
-     <table:table-cell table:style-name="ce30" table:number-columns-repeated="2"/>
-     <table:table-cell table:number-columns-repeated="1017"/>
+     <table:covered-table-cell table:style-name="ce58"/>
+     <table:covered-table-cell table:style-name="ce58" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce3" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce30" table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="1016"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
-     <table:table-cell table:style-name="ce17" table:content-validation-name="val1"/>
-     <table:covered-table-cell table:number-columns-repeated="2" table:style-name="ce48"/>
-     <table:covered-table-cell table:style-name="ce48" table:content-validation-name="val2"/>
-     <table:table-cell table:style-name="ce17" table:content-validation-name="val3"/>
-     <table:table-cell table:style-name="ce1" table:number-columns-repeated="2"/>
-     <table:table-cell table:number-columns-repeated="1017"/>
+     <table:table-cell table:style-name="ce3" table:content-validation-name="val1"/>
+     <table:covered-table-cell table:number-columns-repeated="2" table:style-name="ce40"/>
+     <table:covered-table-cell table:style-name="ce40" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce3" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce1" table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="1016"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
-     <table:table-cell table:style-name="ce33" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce4" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
       <text:p># in Family</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
@@ -11721,10 +11755,10 @@
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>First Name</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce33" table:content-validation-name="val2" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce4" table:content-validation-name="val2" office:value-type="string" calcext:value-type="string">
       <text:p>DOB</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce68" table:content-validation-name="val3" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce68" table:content-validation-name="val2" office:value-type="string" calcext:value-type="string">
       <text:p>Date of Visit</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce28" office:value-type="string" calcext:value-type="string">
@@ -11733,11 +11767,13 @@
      <table:table-cell table:style-name="ce28" office:value-type="string" calcext:value-type="string">
       <text:p>CSFP</text:p>
      </table:table-cell>
+     <table:table-cell table:style-name="ce28" office:value-type="string" calcext:value-type="string">
+      <text:p>Month</text:p>
+     </table:table-cell>
      <table:table-cell table:style-name="ce31" table:number-columns-repeated="1016"/>
-     <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro4">
-     <table:table-cell table:style-name="ce34" table:content-validation-name="val1" office:value-type="float" office:value="4" calcext:value-type="float">
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="float" office:value="4" calcext:value-type="float">
       <text:p>4</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string">
@@ -11746,20 +11782,23 @@
      <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string">
       <text:p>John</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce64" table:content-validation-name="val2" office:value-type="date" office:date-value="1980-01-01" calcext:value-type="date">
+     <table:table-cell table:style-name="ce59" table:content-validation-name="val2" office:value-type="date" office:date-value="1980-01-01" calcext:value-type="date">
       <text:p>1/1/80</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce69" table:content-validation-name="val3" office:value-type="date" office:date-value="2018-02-02" calcext:value-type="date">
-      <text:p>02/02/18</text:p>
+     <table:table-cell table:style-name="ce69" table:content-validation-name="val2" office:value-type="date" office:date-value="2018-01-10" calcext:value-type="date">
+      <text:p>01/10/18</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce47" office:value-type="string" calcext:value-type="string">
       <text:p>X</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:number-columns-repeated="1017"/>
+     <table:table-cell table:style-name="ce47"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E4]);&quot;&quot;;COM.MICROSOFT.CONCAT(MONTH([.E4]);&quot;/&quot;;YEAR([.E4])))" office:value-type="string" office:string-value="1/2018" calcext:value-type="string">
+      <text:p>1/2018</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1016"/>
     </table:table-row>
     <table:table-row table:style-name="ro4">
-     <table:table-cell table:style-name="ce34" table:content-validation-name="val1" office:value-type="float" office:value="7" calcext:value-type="float">
+     <table:table-cell table:style-name="ce5" table:content-validation-name="val1" office:value-type="float" office:value="7" calcext:value-type="float">
       <text:p>7</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string">
@@ -11768,18 +11807,23 @@
      <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string">
       <text:p>John</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce64" table:content-validation-name="val2"/>
-     <table:table-cell table:style-name="ce69" table:content-validation-name="val3" office:value-type="date" office:date-value="2018-01-01" calcext:value-type="date">
+     <table:table-cell table:style-name="ce59" table:content-validation-name="val2" office:value-type="date" office:date-value="1912-01-01" calcext:value-type="date">
+      <text:p>1/1/12</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce69" table:content-validation-name="val2" office:value-type="date" office:date-value="2018-01-01" calcext:value-type="date">
       <text:p>01/01/18</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce47" office:value-type="string" calcext:value-type="string">
       <text:p>X</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20"/>
-     <table:table-cell table:number-columns-repeated="1017"/>
+     <table:table-cell table:style-name="ce47"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E5]);&quot;&quot;;COM.MICROSOFT.CONCAT(MONTH([.E5]);&quot;/&quot;;YEAR([.E5])))" office:value-type="string" office:string-value="1/2018" calcext:value-type="string">
+      <text:p>1/2018</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1016"/>
     </table:table-row>
     <table:table-row table:style-name="ro5">
-     <table:table-cell table:style-name="ce35" table:content-validation-name="val1" office:value-type="float" office:value="6" calcext:value-type="float">
+     <table:table-cell table:style-name="ce6" table:content-validation-name="val1" office:value-type="float" office:value="6" calcext:value-type="float">
       <text:p>6</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string">
@@ -11788,19 +11832,21 @@
      <table:table-cell table:style-name="ce18" office:value-type="string" calcext:value-type="string">
       <text:p>Jordan</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce64" table:content-validation-name="val2" office:value-type="date" office:date-value="1990-09-14" calcext:value-type="date">
+     <table:table-cell table:style-name="ce59" table:content-validation-name="val2" office:value-type="date" office:date-value="1990-09-14" calcext:value-type="date">
       <text:p>9/14/90</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce69" table:content-validation-name="val3" office:value-type="date" office:date-value="2018-03-10" calcext:value-type="date">
+     <table:table-cell table:style-name="ce69" table:content-validation-name="val2" office:value-type="date" office:date-value="2018-03-10" calcext:value-type="date">
       <text:p>03/10/18</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce47" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E6]);&quot;&quot;;COM.MICROSOFT.CONCAT(MONTH([.E6]);&quot;/&quot;;YEAR([.E6])))" office:value-type="string" office:string-value="3/2018" calcext:value-type="string">
+      <text:p>3/2018</text:p>
+     </table:table-cell>
      <table:table-cell table:style-name="ce9" table:number-columns-repeated="50"/>
      <table:table-cell table:style-name="ce32" table:number-columns-repeated="966"/>
-     <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro5">
-     <table:table-cell table:style-name="ce36" table:content-validation-name="val1" office:value-type="float" office:value="4" calcext:value-type="float">
+     <table:table-cell table:style-name="ce12" table:content-validation-name="val1" office:value-type="float" office:value="4" calcext:value-type="float">
       <text:p>4</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce19" office:value-type="string" calcext:value-type="string">
@@ -11809,328 +11855,659 @@
      <table:table-cell table:style-name="ce19" office:value-type="string" calcext:value-type="string">
       <text:p>John</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce65" table:content-validation-name="val2" office:value-type="date" office:date-value="1980-01-01" calcext:value-type="date">
+     <table:table-cell table:style-name="ce60" table:content-validation-name="val2" office:value-type="date" office:date-value="1980-01-01" calcext:value-type="date">
       <text:p>1/1/80</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce69" table:content-validation-name="val3" office:value-type="date" office:date-value="2018-03-10" calcext:value-type="date">
+     <table:table-cell table:style-name="ce69" table:content-validation-name="val2" office:value-type="date" office:date-value="2018-03-10" calcext:value-type="date">
       <text:p>03/10/18</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce47" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E7]);&quot;&quot;;COM.MICROSOFT.CONCAT(MONTH([.E7]);&quot;/&quot;;YEAR([.E7])))" office:value-type="string" office:string-value="3/2018" calcext:value-type="string">
+      <text:p>3/2018</text:p>
+     </table:table-cell>
      <table:table-cell table:style-name="ce9" table:number-columns-repeated="50"/>
      <table:table-cell table:style-name="ce32" table:number-columns-repeated="966"/>
-     <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro5">
-     <table:table-cell table:style-name="ce37" table:content-validation-name="val1"/>
-     <table:table-cell table:style-name="ce20" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce64" table:content-validation-name="val2"/>
-     <table:table-cell table:style-name="ce20" table:content-validation-name="val3"/>
-     <table:table-cell table:style-name="ce20" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce17" table:content-validation-name="val1" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce47" office:value-type="string" calcext:value-type="string">
+      <text:p>Potts</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce47" office:value-type="string" calcext:value-type="string">
+      <text:p>Daniel</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce59" table:content-validation-name="val2" office:value-type="date" office:date-value="2007-12-07" calcext:value-type="date">
+      <text:p>12/7/07</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce69" table:content-validation-name="val2" office:value-type="date" office:date-value="2018-03-17" calcext:value-type="date">
+      <text:p>03/17/18</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce47"/>
+     <table:table-cell table:style-name="ce47" office:value-type="string" calcext:value-type="string">
+      <text:p>X</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E8]);&quot;&quot;;COM.MICROSOFT.CONCAT(MONTH([.E8]);&quot;/&quot;;YEAR([.E8])))" office:value-type="string" office:string-value="3/2018" calcext:value-type="string">
+      <text:p>3/2018</text:p>
+     </table:table-cell>
      <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
-     <table:table-cell/>
     </table:table-row>
-    <table:table-row table:style-name="ro5" table:number-rows-repeated="20">
-     <table:table-cell table:style-name="ce35" table:content-validation-name="val1"/>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:style-name="ce6" table:content-validation-name="val1" office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce21" office:value-type="string" calcext:value-type="string">
+      <text:p>Smith</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce21" office:value-type="string" calcext:value-type="string">
+      <text:p>John</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce61" table:content-validation-name="val2" office:value-type="date" office:date-value="1980-01-01" calcext:value-type="date">
+      <text:p>1/1/80</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce69" table:content-validation-name="val2" office:value-type="date" office:date-value="2018-03-17" calcext:value-type="date">
+      <text:p>03/17/18</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce47" office:value-type="string" calcext:value-type="string">
+      <text:p>X</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce47"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E9]);&quot;&quot;;COM.MICROSOFT.CONCAT(MONTH([.E9]);&quot;/&quot;;YEAR([.E9])))" office:value-type="string" office:string-value="3/2018" calcext:value-type="string">
+      <text:p>3/2018</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:style-name="ce6" table:content-validation-name="val1"/>
      <table:table-cell table:style-name="ce21" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce66" table:content-validation-name="val2"/>
-     <table:table-cell table:style-name="ce20" table:content-validation-name="val3"/>
-     <table:table-cell table:style-name="ce20" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce61" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E10]);&quot;&quot;;COM.MICROSOFT.CONCAT(MONTH([.E10]);&quot;/&quot;;YEAR([.E10])))">
+      <text:p/>
+     </table:table-cell>
      <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
-     <table:table-cell/>
     </table:table-row>
-    <table:table-row table:style-name="ro5" table:number-rows-repeated="2">
-     <table:table-cell table:style-name="ce36" table:content-validation-name="val1"/>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:style-name="ce6" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce21" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce61" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E11]);&quot;&quot;;COM.MICROSOFT.CONCAT(MONTH([.E11]);&quot;/&quot;;YEAR([.E11])))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:style-name="ce6" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce21" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce61" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E12]);&quot;&quot;;COM.MICROSOFT.CONCAT(MONTH([.E12]);&quot;/&quot;;YEAR([.E12])))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:style-name="ce6" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce21" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce61" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E13]);&quot;&quot;;COM.MICROSOFT.CONCAT(MONTH([.E13]);&quot;/&quot;;YEAR([.E13])))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:style-name="ce6" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce21" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce61" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E14]);&quot;&quot;;COM.MICROSOFT.CONCAT(MONTH([.E14]);&quot;/&quot;;YEAR([.E14])))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:style-name="ce6" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce21" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce61" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E15]);&quot;&quot;;COM.MICROSOFT.CONCAT(MONTH([.E15]);&quot;/&quot;;YEAR([.E15])))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:style-name="ce6" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce21" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce61" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E16]);&quot;&quot;;COM.MICROSOFT.CONCAT(MONTH([.E16]);&quot;/&quot;;YEAR([.E16])))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:style-name="ce6" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce21" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce61" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E17]);&quot;&quot;;COM.MICROSOFT.CONCAT(MONTH([.E17]);&quot;/&quot;;YEAR([.E17])))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:style-name="ce6" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce21" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce61" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E18]);&quot;&quot;;COM.MICROSOFT.CONCAT(MONTH([.E18]);&quot;/&quot;;YEAR([.E18])))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:style-name="ce6" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce21" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce61" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E19]);&quot;&quot;;COM.MICROSOFT.CONCAT(MONTH([.E19]);&quot;/&quot;;YEAR([.E19])))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:style-name="ce6" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce21" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce61" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E20]);&quot;&quot;;COM.MICROSOFT.CONCAT(MONTH([.E20]);&quot;/&quot;;YEAR([.E20])))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:style-name="ce6" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce21" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce61" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E21]);&quot;&quot;;COM.MICROSOFT.CONCAT(MONTH([.E21]);&quot;/&quot;;YEAR([.E21])))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:style-name="ce6" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce21" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce61" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E22]);&quot;&quot;;COM.MICROSOFT.CONCAT(MONTH([.E22]);&quot;/&quot;;YEAR([.E22])))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:style-name="ce6" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce21" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce61" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E23]);&quot;&quot;;COM.MICROSOFT.CONCAT(MONTH([.E23]);&quot;/&quot;;YEAR([.E23])))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:style-name="ce6" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce21" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce61" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E24]);&quot;&quot;;COM.MICROSOFT.CONCAT(MONTH([.E24]);&quot;/&quot;;YEAR([.E24])))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:style-name="ce6" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce21" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce61" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E25]);&quot;&quot;;COM.MICROSOFT.CONCAT(MONTH([.E25]);&quot;/&quot;;YEAR([.E25])))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:style-name="ce6" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce21" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce61" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E26]);&quot;&quot;;COM.MICROSOFT.CONCAT(MONTH([.E26]);&quot;/&quot;;YEAR([.E26])))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:style-name="ce6" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce21" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce61" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E27]);&quot;&quot;;COM.MICROSOFT.CONCAT(MONTH([.E27]);&quot;/&quot;;YEAR([.E27])))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:style-name="ce6" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce21" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce61" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E28]);&quot;&quot;;COM.MICROSOFT.CONCAT(MONTH([.E28]);&quot;/&quot;;YEAR([.E28])))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:style-name="ce12" table:content-validation-name="val1"/>
      <table:table-cell table:style-name="ce19" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce65" table:content-validation-name="val2"/>
-     <table:table-cell table:style-name="ce20" table:content-validation-name="val3"/>
-     <table:table-cell table:style-name="ce20" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce60" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E29]);&quot;&quot;;COM.MICROSOFT.CONCAT(MONTH([.E29]);&quot;/&quot;;YEAR([.E29])))">
+      <text:p/>
+     </table:table-cell>
      <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
-     <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro5">
-     <table:table-cell table:style-name="ce38" table:content-validation-name="val1"/>
-     <table:table-cell table:style-name="ce7" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce38" table:content-validation-name="val2"/>
-     <table:table-cell table:style-name="ce38" table:content-validation-name="val3"/>
-     <table:table-cell table:style-name="ce7" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce12" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce19" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce60" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce47" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E30]);&quot;&quot;;COM.MICROSOFT.CONCAT(MONTH([.E30]);&quot;/&quot;;YEAR([.E30])))">
+      <text:p/>
+     </table:table-cell>
      <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
-     <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro5">
-     <table:table-cell table:style-name="ce39" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce20" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce7" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce20" table:content-validation-name="val2" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce7" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E31]);&quot;&quot;;MONTH([.E31]))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:style-name="ce23" table:content-validation-name="val1"/>
      <table:table-cell table:style-name="ce8" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce39" table:content-validation-name="val2"/>
-     <table:table-cell table:style-name="ce39" table:content-validation-name="val3"/>
-     <table:table-cell table:style-name="ce8" table:number-columns-repeated="1018"/>
-     <table:table-cell/>
+     <table:table-cell table:style-name="ce23" table:content-validation-name="val2" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce8" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E32]);&quot;&quot;;MONTH([.E32]))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce8" table:number-columns-repeated="1016"/>
     </table:table-row>
     <table:table-row table:style-name="ro5">
-     <table:table-cell table:style-name="ce40" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce24" table:content-validation-name="val1"/>
      <table:table-cell table:style-name="ce9" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce40" table:content-validation-name="val2"/>
-     <table:table-cell table:style-name="ce40" table:content-validation-name="val3"/>
-     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1018"/>
+     <table:table-cell table:style-name="ce24" table:content-validation-name="val2" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E33]);&quot;&quot;;MONTH([.E33]))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:content-validation-name="val1"/>
      <table:table-cell/>
+     <table:table-cell table:style-name="ce9"/>
+     <table:table-cell table:style-name="ce24" table:content-validation-name="val2" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E34]);&quot;&quot;;MONTH([.E34]))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:content-validation-name="val1"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9"/>
+     <table:table-cell table:style-name="ce24" table:content-validation-name="val2" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E35]);&quot;&quot;;MONTH([.E35]))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:content-validation-name="val1"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9"/>
+     <table:table-cell table:style-name="ce24" table:content-validation-name="val2" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E36]);&quot;&quot;;MONTH([.E36]))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:content-validation-name="val1"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9"/>
+     <table:table-cell table:style-name="ce24" table:content-validation-name="val2" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E37]);&quot;&quot;;MONTH([.E37]))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:content-validation-name="val1"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9"/>
+     <table:table-cell table:style-name="ce24" table:content-validation-name="val2" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E38]);&quot;&quot;;MONTH([.E38]))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:content-validation-name="val1"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce24" table:content-validation-name="val2" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E39]);&quot;&quot;;MONTH([.E39]))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:style-name="ce24" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce9"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce24" table:content-validation-name="val2" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E40]);&quot;&quot;;MONTH([.E40]))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:style-name="ce24" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce9"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce24" table:content-validation-name="val2" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E41]);&quot;&quot;;MONTH([.E41]))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:style-name="ce24" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce9"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce24" table:content-validation-name="val2" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E42]);&quot;&quot;;MONTH([.E42]))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:style-name="ce24" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce9"/>
+     <table:table-cell/>
+     <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E43]);&quot;&quot;;MONTH([.E43]))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:style-name="ce24" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce9"/>
+     <table:table-cell/>
+     <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E44]);&quot;&quot;;MONTH([.E44]))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:style-name="ce24" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce9"/>
+     <table:table-cell/>
+     <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=IF(ISBLANK([.E45]);&quot;&quot;;MONTH([.E45]))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5" table:number-rows-repeated="3">
+     <table:table-cell table:style-name="ce24" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce9"/>
+     <table:table-cell/>
+     <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:content-validation-name="val1"/>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5" table:number-rows-repeated="3">
+     <table:table-cell table:style-name="ce24" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce24" table:content-validation-name="val2" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro5" table:number-rows-repeated="5">
      <table:table-cell table:content-validation-name="val1"/>
      <table:table-cell/>
      <table:table-cell table:style-name="ce9"/>
-     <table:table-cell table:style-name="ce40" table:content-validation-name="val2"/>
-     <table:table-cell table:style-name="ce40" table:content-validation-name="val3"/>
-     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1018"/>
-     <table:table-cell/>
-    </table:table-row>
-    <table:table-row table:style-name="ro5">
-     <table:table-cell table:content-validation-name="val1"/>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce40" table:content-validation-name="val2"/>
-     <table:table-cell table:style-name="ce40" table:content-validation-name="val3"/>
-     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1018"/>
-     <table:table-cell/>
-    </table:table-row>
-    <table:table-row table:style-name="ro5" table:number-rows-repeated="3">
-     <table:table-cell table:style-name="ce40" table:content-validation-name="val1"/>
-     <table:table-cell table:style-name="ce9"/>
-     <table:table-cell/>
-     <table:table-cell table:style-name="ce40" table:content-validation-name="val2"/>
-     <table:table-cell table:style-name="ce40" table:content-validation-name="val3"/>
-     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1018"/>
-     <table:table-cell/>
-    </table:table-row>
-    <table:table-row table:style-name="ro5" table:number-rows-repeated="6">
-     <table:table-cell table:style-name="ce40" table:content-validation-name="val1"/>
-     <table:table-cell table:style-name="ce9"/>
-     <table:table-cell/>
-     <table:table-cell table:content-validation-name="val2"/>
-     <table:table-cell table:content-validation-name="val3"/>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
-     <table:table-cell/>
-    </table:table-row>
-    <table:table-row table:style-name="ro5">
-     <table:table-cell table:content-validation-name="val1"/>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:content-validation-name="val2"/>
-     <table:table-cell table:content-validation-name="val3"/>
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1016"/>
-     <table:table-cell/>
-    </table:table-row>
-    <table:table-row table:style-name="ro5" table:number-rows-repeated="3">
-     <table:table-cell table:style-name="ce40" table:content-validation-name="val1"/>
-     <table:table-cell table:style-name="ce9" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce40" table:content-validation-name="val2"/>
-     <table:table-cell table:style-name="ce40" table:content-validation-name="val3"/>
-     <table:table-cell table:style-name="ce9" table:number-columns-repeated="1018"/>
-     <table:table-cell/>
-    </table:table-row>
-    <table:table-row table:style-name="ro5" table:number-rows-repeated="5">
-     <table:table-cell table:content-validation-name="val1"/>
-     <table:table-cell/>
-     <table:table-cell table:style-name="ce9"/>
-     <table:table-cell table:style-name="ce40" table:content-validation-name="val2"/>
-     <table:table-cell table:style-name="ce40" table:content-validation-name="val3"/>
-     <table:table-cell table:style-name="ce9" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce24" table:content-validation-name="val2" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="3"/>
      <table:table-cell table:style-name="ce10" table:number-columns-repeated="11"/>
      <table:table-cell table:style-name="ce9" table:number-columns-repeated="1005"/>
-     <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro5">
      <table:table-cell table:content-validation-name="val1"/>
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce40" table:content-validation-name="val2"/>
-     <table:table-cell table:style-name="ce40" table:content-validation-name="val3"/>
-     <table:table-cell table:style-name="ce9" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce24" table:content-validation-name="val2" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="3"/>
      <table:table-cell table:style-name="ce10" table:number-columns-repeated="11"/>
      <table:table-cell table:style-name="ce9" table:number-columns-repeated="1005"/>
-     <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro5" table:number-rows-repeated="3">
      <table:table-cell table:content-validation-name="val1"/>
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce40" table:content-validation-name="val2"/>
-     <table:table-cell table:style-name="ce40" table:content-validation-name="val3"/>
-     <table:table-cell table:style-name="ce9" table:number-columns-repeated="2"/>
-     <table:table-cell table:number-columns-repeated="1017"/>
+     <table:table-cell table:style-name="ce24" table:content-validation-name="val2" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce9" table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="1016"/>
     </table:table-row>
     <table:table-row table:style-name="ro6" table:number-rows-repeated="20">
      <table:table-cell table:content-validation-name="val1"/>
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:content-validation-name="val2"/>
-     <table:table-cell table:content-validation-name="val3"/>
+     <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="2"/>
      <table:table-cell table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro6" table:number-rows-repeated="3">
-     <table:table-cell table:style-name="ce42" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce26" table:content-validation-name="val1"/>
      <table:table-cell table:style-name="ce11" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce42" table:content-validation-name="val2"/>
-     <table:table-cell table:style-name="ce42" table:content-validation-name="val3"/>
-     <table:table-cell table:style-name="ce11" table:number-columns-repeated="2"/>
-     <table:table-cell table:number-columns-repeated="1017"/>
+     <table:table-cell table:style-name="ce26" table:content-validation-name="val2" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce11" table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="1016"/>
     </table:table-row>
     <table:table-row table:style-name="ro7" table:number-rows-repeated="2">
-     <table:table-cell table:style-name="ce43" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce27" table:content-validation-name="val1"/>
      <table:table-cell table:style-name="ce14" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce67" table:content-validation-name="val2"/>
-     <table:table-cell table:style-name="ce42" table:content-validation-name="val3"/>
-     <table:table-cell table:style-name="ce11" table:number-columns-repeated="2"/>
-     <table:table-cell table:number-columns-repeated="1017"/>
+     <table:table-cell table:style-name="ce62" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce26" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce11" table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="1016"/>
     </table:table-row>
     <table:table-row table:style-name="ro7" table:number-rows-repeated="5">
-     <table:table-cell table:style-name="ce43" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce27" table:content-validation-name="val1"/>
      <table:table-cell table:style-name="ce22" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce67" table:content-validation-name="val2"/>
-     <table:table-cell table:style-name="ce42" table:content-validation-name="val3"/>
-     <table:table-cell table:style-name="ce11" table:number-columns-repeated="2"/>
-     <table:table-cell table:number-columns-repeated="1017"/>
+     <table:table-cell table:style-name="ce62" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce26" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce11" table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="1016"/>
     </table:table-row>
     <table:table-row table:style-name="ro7">
-     <table:table-cell table:style-name="ce44" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce29" table:content-validation-name="val1"/>
      <table:table-cell table:style-name="ce13"/>
      <table:table-cell table:style-name="ce14"/>
-     <table:table-cell table:style-name="ce67" table:content-validation-name="val2"/>
-     <table:table-cell table:style-name="ce42" table:content-validation-name="val3"/>
-     <table:table-cell table:style-name="ce11" table:number-columns-repeated="2"/>
-     <table:table-cell table:number-columns-repeated="1017"/>
+     <table:table-cell table:style-name="ce62" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce26" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce11" table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="1016"/>
     </table:table-row>
     <table:table-row table:style-name="ro7" table:number-rows-repeated="2">
-     <table:table-cell table:style-name="ce45" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce33" table:content-validation-name="val1"/>
      <table:table-cell table:style-name="ce14" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce45" table:content-validation-name="val2"/>
-     <table:table-cell table:style-name="ce42" table:content-validation-name="val3"/>
-     <table:table-cell table:style-name="ce11" table:number-columns-repeated="2"/>
-     <table:table-cell table:number-columns-repeated="1017"/>
+     <table:table-cell table:style-name="ce33" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce26" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce11" table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="1016"/>
     </table:table-row>
     <table:table-row table:style-name="ro7">
-     <table:table-cell table:style-name="ce45" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce33" table:content-validation-name="val1"/>
      <table:table-cell table:style-name="ce14"/>
      <table:table-cell table:style-name="ce13"/>
-     <table:table-cell table:style-name="ce45" table:content-validation-name="val2"/>
-     <table:table-cell table:style-name="ce42" table:content-validation-name="val3"/>
-     <table:table-cell table:style-name="ce11" table:number-columns-repeated="2"/>
-     <table:table-cell table:number-columns-repeated="1017"/>
+     <table:table-cell table:style-name="ce33" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce26" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce11" table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="1016"/>
     </table:table-row>
     <table:table-row table:style-name="ro7">
-     <table:table-cell table:style-name="ce45" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce33" table:content-validation-name="val1"/>
      <table:table-cell table:style-name="ce14" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce45" table:content-validation-name="val2"/>
-     <table:table-cell table:style-name="ce42" table:content-validation-name="val3"/>
-     <table:table-cell table:style-name="ce11" table:number-columns-repeated="2"/>
-     <table:table-cell table:number-columns-repeated="1017"/>
+     <table:table-cell table:style-name="ce33" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce26" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce11" table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="1016"/>
     </table:table-row>
     <table:table-row table:style-name="ro7" table:number-rows-repeated="2">
-     <table:table-cell table:style-name="ce46" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce38" table:content-validation-name="val1"/>
      <table:table-cell table:style-name="ce15"/>
      <table:table-cell table:style-name="ce14"/>
-     <table:table-cell table:style-name="ce45" table:content-validation-name="val2"/>
-     <table:table-cell table:style-name="ce42" table:content-validation-name="val3"/>
-     <table:table-cell table:style-name="ce11" table:number-columns-repeated="2"/>
-     <table:table-cell table:number-columns-repeated="1017"/>
+     <table:table-cell table:style-name="ce33" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce26" table:content-validation-name="val2"/>
+     <table:table-cell table:style-name="ce11" table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="1016"/>
     </table:table-row>
     <table:table-row table:style-name="ro6" table:number-rows-repeated="3">
-     <table:table-cell table:style-name="ce42" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce26" table:content-validation-name="val1"/>
      <table:table-cell table:style-name="ce11" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce42" table:content-validation-name="val2"/>
-     <table:table-cell table:style-name="ce42" table:content-validation-name="val3"/>
-     <table:table-cell table:style-name="ce11" table:number-columns-repeated="2"/>
-     <table:table-cell table:number-columns-repeated="1017"/>
+     <table:table-cell table:style-name="ce26" table:content-validation-name="val2" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce11" table:number-columns-repeated="3"/>
+     <table:table-cell table:number-columns-repeated="1016"/>
     </table:table-row>
     <table:table-row table:style-name="ro6" table:number-rows-repeated="1048474">
      <table:table-cell table:content-validation-name="val1"/>
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:content-validation-name="val2"/>
-     <table:table-cell table:content-validation-name="val3"/>
+     <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="2"/>
      <table:table-cell table:number-columns-repeated="1019"/>
     </table:table-row>
     <table:table-row table:style-name="ro6">
      <table:table-cell table:content-validation-name="val1"/>
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:content-validation-name="val2"/>
-     <table:table-cell table:content-validation-name="val3"/>
+     <table:table-cell table:content-validation-name="val2" table:number-columns-repeated="2"/>
      <table:table-cell table:number-columns-repeated="1019"/>
     </table:table-row>
    </table:table>
    <table:table table:name="Summary" table:style-name="ta2">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <table:table-column table:style-name="co8" table:default-cell-style-name="ce77"/>
-    <table:table-column table:style-name="co9" table:default-cell-style-name="ce82"/>
-    <table:table-column table:style-name="co10" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co11" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co12" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co13" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co14" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co8" table:default-cell-style-name="ce108"/>
+    <table:table-column table:style-name="co9" table:default-cell-style-name="ce113"/>
+    <table:table-column table:style-name="co10" table:default-cell-style-name="ce104"/>
+    <table:table-column table:style-name="co11" table:default-cell-style-name="ce104"/>
+    <table:table-column table:style-name="co12" table:default-cell-style-name="ce104"/>
+    <table:table-column table:style-name="co13" table:default-cell-style-name="ce104"/>
+    <table:table-column table:style-name="co14" table:default-cell-style-name="ce104"/>
     <table:table-row table:style-name="ro8">
-     <table:table-cell table:style-name="Default" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce104" office:value-type="string" calcext:value-type="string">
       <text:p>Filter</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:style-name="ce104"/>
      <table:table-cell table:number-columns-repeated="5"/>
     </table:table-row>
     <table:table-row table:style-name="ro8">
-     <table:table-cell table:style-name="Pivot_20_Table_20_Field" office:value-type="string" calcext:value-type="string">
-      <text:p>Date of Visit</text:p>
+     <table:table-cell table:style-name="ce105" office:value-type="string" calcext:value-type="string">
+      <text:p>Month</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce79" office:value-type="string" calcext:value-type="string">
-      <text:p>- all -</text:p>
+     <table:table-cell table:style-name="ce110" office:value-type="string" calcext:value-type="string">
+      <text:p>3/2018</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="5"/>
     </table:table-row>
     <table:table-row table:style-name="ro8">
-     <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce104" table:number-columns-repeated="2"/>
      <table:table-cell table:number-columns-repeated="5"/>
     </table:table-row>
     <table:table-row table:style-name="ro8">
-     <table:table-cell table:style-name="ce75"/>
-     <table:table-cell table:style-name="ce80"/>
-     <table:table-cell table:style-name="ce84"/>
-     <table:table-cell table:style-name="ce87" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce106"/>
+     <table:table-cell table:style-name="ce111"/>
+     <table:table-cell table:style-name="ce115"/>
+     <table:table-cell table:style-name="ce118" office:value-type="string" calcext:value-type="string">
       <text:p>Data</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce91" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce97"/>
+     <table:table-cell table:style-name="ce122" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce127"/>
     </table:table-row>
     <table:table-row table:style-name="ro8">
-     <table:table-cell table:style-name="ce76" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce107" office:value-type="string" calcext:value-type="string">
       <text:p>Last Name</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce81" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce112" office:value-type="string" calcext:value-type="string">
       <text:p>First Name</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce81" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce112" office:value-type="string" calcext:value-type="string">
       <text:p>DOB</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce88" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce119" office:value-type="string" calcext:value-type="string">
       <text:p>Total people fed</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce92" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce123" office:value-type="string" calcext:value-type="string">
+      <text:p><text:s/>Visits</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce123" office:value-type="string" calcext:value-type="string">
       <text:p>Total TEFAP collected</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce92" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce128" office:value-type="string" calcext:value-type="string">
       <text:p>Total CSFP collected</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce98" office:value-type="string" calcext:value-type="string">
-      <text:p>Count - Date of Visit</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="ro8">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Jones</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>John</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce85" office:value-type="string" calcext:value-type="string">
-      <text:p>(empty)</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce89" office:value-type="float" office:value="7" calcext:value-type="float">
-      <text:p>7</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce93" office:value-type="float" office:value="1" calcext:value-type="float">
-      <text:p>1</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce94"/>
-     <table:table-cell table:style-name="ce99"/>
     </table:table-row>
     <table:table-row table:style-name="ro8">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -12139,14 +12516,36 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Jordan</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce85" office:value-type="date" office:date-value="1990-09-14" calcext:value-type="date">
+     <table:table-cell table:style-name="ce116" office:value-type="date" office:date-value="1990-09-14" calcext:value-type="date">
       <text:p>9/14/90</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce89" office:value-type="float" office:value="6" calcext:value-type="float">
+     <table:table-cell table:style-name="ce120" office:value-type="float" office:value="6" calcext:value-type="float">
       <text:p>6</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce94" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce100" office:value-type="float" office:value="1" calcext:value-type="float">
+     <table:table-cell table:style-name="ce124" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce126"/>
+     <table:table-cell table:style-name="ce129"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro8">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Potts</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Daniel</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce116" office:value-type="date" office:date-value="2007-12-07" calcext:value-type="date">
+      <text:p>12/7/07</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce120" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce124" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce126"/>
+     <table:table-cell table:style-name="ce130" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
     </table:table-row>
@@ -12157,57 +12556,64 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>John</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce85" office:value-type="date" office:date-value="1980-01-01" calcext:value-type="date">
+     <table:table-cell table:style-name="ce116" office:value-type="date" office:date-value="1980-01-01" calcext:value-type="date">
       <text:p>1/1/80</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce89" office:value-type="float" office:value="8" calcext:value-type="float">
-      <text:p>8</text:p>
+     <table:table-cell table:style-name="ce120" office:value-type="float" office:value="6" calcext:value-type="float">
+      <text:p>6</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce93" office:value-type="float" office:value="1" calcext:value-type="float">
+     <table:table-cell table:style-name="ce124" office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce124" office:value-type="float" office:value="1" calcext:value-type="float">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce94"/>
-     <table:table-cell table:style-name="ce100" office:value-type="float" office:value="2" calcext:value-type="float">
-      <text:p>2</text:p>
+     <table:table-cell table:style-name="ce129"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro8">
+     <table:table-cell table:style-name="ce109" office:value-type="string" calcext:value-type="string">
+      <text:p>Total Result</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce114"/>
+     <table:table-cell table:style-name="ce117"/>
+     <table:table-cell table:style-name="ce121" office:value-type="float" office:value="13" calcext:value-type="float">
+      <text:p>13</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce125" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce125" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce131" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro8">
-     <table:table-cell table:style-name="ce78" office:value-type="string" calcext:value-type="string">
-      <text:p>Total Result</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce83"/>
-     <table:table-cell table:style-name="ce86"/>
-     <table:table-cell table:style-name="ce90" office:value-type="float" office:value="21" calcext:value-type="float">
-      <text:p>21</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce95" office:value-type="float" office:value="2" calcext:value-type="float">
-      <text:p>2</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="ce96"/>
-     <table:table-cell table:style-name="ce101" office:value-type="float" office:value="3" calcext:value-type="float">
-      <text:p>3</text:p>
-     </table:table-cell>
+     <table:table-cell table:style-name="Default" table:number-columns-repeated="7"/>
     </table:table-row>
    </table:table>
    <table:table table:name="Sheet2" table:style-name="ta2">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co15" table:default-cell-style-name="Default"/>
-    <table:table-row table:style-name="ro8">
+    <table:table-row table:style-name="ro9">
      <table:table-cell/>
     </table:table-row>
    </table:table>
    <table:named-expressions/>
    <table:data-pilot-tables>
-    <table:data-pilot-table table:name="DataPilot1" table:application-data="" table:target-range-address="Summary.A1:Summary.G9" table:buttons="Summary.A1 Summary.A2 Summary.A5 Summary.B5 Summary.C5 Summary.D4">
-     <table:source-cell-range table:cell-range-address="Master.A3:Master.G7"/>
-     <table:data-pilot-field table:source-field-name="Date of Visit" table:orientation="page" table:used-hierarchy="0" table:function="auto" loext:ignore-selected-page="true" table:selected-page="02/02/18">
+    <table:data-pilot-table table:name="DataPilot1" table:application-data="" table:target-range-address="Summary.A1:Summary.G9" table:buttons="Summary.A1 Summary.A2 Summary.A5 Summary.B5 Summary.C5 Summary.D4" table:ignore-empty-rows="true">
+     <table:source-cell-range table:cell-range-address="Master.A3:Master.H100"/>
+     <table:data-pilot-field table:source-field-name="Month" table:orientation="page" table:used-hierarchy="0" table:function="auto" loext:ignore-selected-page="true" table:selected-page="3/2018">
       <table:data-pilot-level table:show-empty="false" calcext:repeat-item-labels="false">
+       <table:data-pilot-subtotals>
+        <table:data-pilot-subtotal table:function="auto"/>
+       </table:data-pilot-subtotals>
        <table:data-pilot-members>
-        <table:data-pilot-member table:name="02/02/18" table:display="true" table:show-details="true"/>
-        <table:data-pilot-member table:name="03/10/18" table:display="true" table:show-details="true"/>
-        <table:data-pilot-member table:name="" table:display="true" table:show-details="true"/>
+        <table:data-pilot-member table:name="" table:display="false" table:show-details="true"/>
+        <table:data-pilot-member table:name="1/2018" table:display="false" table:show-details="true"/>
+        <table:data-pilot-member table:name="3/2018" table:display="true" table:show-details="true"/>
        </table:data-pilot-members>
-       <table:data-pilot-display-info table:enabled="false" table:display-member-mode="from-top" table:member-count="0" table:data-field=""/>
+       <table:data-pilot-display-info table:enabled="false" table:display-member-mode="from-top" table:member-count="10" table:data-field="# in Family"/>
        <table:data-pilot-sort-info table:order="ascending" table:sort-mode="name"/>
        <table:data-pilot-layout-info table:add-empty-lines="false" table:layout-mode="tabular-layout"/>
       </table:data-pilot-level>
@@ -12220,7 +12626,9 @@
        <table:data-pilot-members>
         <table:data-pilot-member table:name="Jones" table:display="true" table:show-details="true"/>
         <table:data-pilot-member table:name="Masters" table:display="true" table:show-details="true"/>
+        <table:data-pilot-member table:name="Potts" table:display="true" table:show-details="true"/>
         <table:data-pilot-member table:name="Smith" table:display="true" table:show-details="true"/>
+        <table:data-pilot-member table:name="" table:display="true" table:show-details="true"/>
        </table:data-pilot-members>
        <table:data-pilot-display-info table:enabled="false" table:display-member-mode="from-top" table:member-count="0" table:data-field=""/>
        <table:data-pilot-sort-info table:order="ascending" table:sort-mode="name"/>
@@ -12230,8 +12638,10 @@
      <table:data-pilot-field table:source-field-name="First Name" table:orientation="row" table:used-hierarchy="0" table:function="auto">
       <table:data-pilot-level table:show-empty="false" calcext:repeat-item-labels="false">
        <table:data-pilot-members>
+        <table:data-pilot-member table:name="Daniel" table:display="true" table:show-details="true"/>
         <table:data-pilot-member table:name="John" table:display="true" table:show-details="true"/>
         <table:data-pilot-member table:name="Jordan" table:display="true" table:show-details="true"/>
+        <table:data-pilot-member table:name="" table:display="true" table:show-details="true"/>
        </table:data-pilot-members>
        <table:data-pilot-display-info table:enabled="false" table:display-member-mode="from-top" table:member-count="0" table:data-field=""/>
        <table:data-pilot-sort-info table:order="ascending" table:sort-mode="name"/>
@@ -12241,8 +12651,10 @@
      <table:data-pilot-field table:source-field-name="DOB" table:orientation="row" table:used-hierarchy="0" table:function="auto">
       <table:data-pilot-level table:show-empty="false" calcext:repeat-item-labels="false">
        <table:data-pilot-members>
+        <table:data-pilot-member table:name="1/1/12" table:display="true" table:show-details="true"/>
         <table:data-pilot-member table:name="1/1/80" table:display="true" table:show-details="true"/>
         <table:data-pilot-member table:name="9/14/90" table:display="true" table:show-details="true"/>
+        <table:data-pilot-member table:name="12/7/07" table:display="true" table:show-details="true"/>
         <table:data-pilot-member table:name="" table:display="true" table:show-details="true"/>
        </table:data-pilot-members>
        <table:data-pilot-display-info table:enabled="false" table:display-member-mode="from-top" table:member-count="0" table:data-field=""/>
@@ -12253,13 +12665,30 @@
      <table:data-pilot-field table:source-field-name="# in Family" tableooo:display-name="Total people fed" table:orientation="data" table:used-hierarchy="0" table:function="sum">
       <table:data-pilot-level table:show-empty="false" calcext:repeat-item-labels="false">
        <table:data-pilot-members>
+        <table:data-pilot-member table:name="1" table:display="true" table:show-details="true"/>
+        <table:data-pilot-member table:name="2" table:display="true" table:show-details="true"/>
         <table:data-pilot-member table:name="4" table:display="true" table:show-details="true"/>
         <table:data-pilot-member table:name="6" table:display="true" table:show-details="true"/>
         <table:data-pilot-member table:name="7" table:display="true" table:show-details="true"/>
+        <table:data-pilot-member table:name="" table:display="true" table:show-details="true"/>
        </table:data-pilot-members>
        <table:data-pilot-display-info table:enabled="false" table:display-member-mode="from-top" table:member-count="0" table:data-field=""/>
        <table:data-pilot-sort-info table:order="ascending" table:sort-mode="name"/>
        <table:data-pilot-layout-info table:add-empty-lines="false" table:layout-mode="tabular-layout"/>
+      </table:data-pilot-level>
+     </table:data-pilot-field>
+     <table:data-pilot-field table:source-field-name="Date of Visit" tableooo:display-name=" Visits" table:orientation="data" table:used-hierarchy="0" table:function="count">
+      <table:data-pilot-level table:show-empty="false" calcext:repeat-item-labels="false">
+       <table:data-pilot-members>
+        <table:data-pilot-member table:name="01/01/18" table:display="false" table:show-details="true"/>
+        <table:data-pilot-member table:name="01/10/18" table:display="false" table:show-details="true"/>
+        <table:data-pilot-member table:name="03/10/18" table:display="true" table:show-details="true"/>
+        <table:data-pilot-member table:name="03/17/18" table:display="true" table:show-details="true"/>
+        <table:data-pilot-member table:name="" table:display="true" table:show-details="true"/>
+       </table:data-pilot-members>
+       <table:data-pilot-display-info table:enabled="false" table:display-member-mode="from-top" table:member-count="10" table:data-field="# in Family"/>
+       <table:data-pilot-sort-info table:order="ascending" table:sort-mode="name"/>
+       <table:data-pilot-layout-info table:add-empty-lines="false" table:layout-mode="outline-subtotals-top"/>
       </table:data-pilot-level>
      </table:data-pilot-field>
      <table:data-pilot-field table:source-field-name="TEFAP" tableooo:display-name="Total TEFAP collected" table:orientation="data" table:used-hierarchy="0" table:function="count">
@@ -12276,18 +12705,7 @@
      <table:data-pilot-field table:source-field-name="CSFP" tableooo:display-name="Total CSFP collected" table:orientation="data" table:used-hierarchy="0" table:function="count">
       <table:data-pilot-level table:show-empty="false" calcext:repeat-item-labels="false">
        <table:data-pilot-members>
-        <table:data-pilot-member table:name="" table:display="true" table:show-details="true"/>
-       </table:data-pilot-members>
-       <table:data-pilot-display-info table:enabled="false" table:display-member-mode="from-top" table:member-count="0" table:data-field=""/>
-       <table:data-pilot-sort-info table:order="ascending" table:sort-mode="name"/>
-       <table:data-pilot-layout-info table:add-empty-lines="false" table:layout-mode="tabular-layout"/>
-      </table:data-pilot-level>
-     </table:data-pilot-field>
-     <table:data-pilot-field table:source-field-name="Date of Visit" table:orientation="data" table:used-hierarchy="0" table:function="count">
-      <table:data-pilot-level table:show-empty="false" calcext:repeat-item-labels="false">
-       <table:data-pilot-members>
-        <table:data-pilot-member table:name="02/02/18" table:display="true" table:show-details="true"/>
-        <table:data-pilot-member table:name="03/10/18" table:display="true" table:show-details="true"/>
+        <table:data-pilot-member table:name="X" table:display="true" table:show-details="true"/>
         <table:data-pilot-member table:name="" table:display="true" table:show-details="true"/>
        </table:data-pilot-members>
        <table:data-pilot-display-info table:enabled="false" table:display-member-mode="from-top" table:member-count="0" table:data-field=""/>
